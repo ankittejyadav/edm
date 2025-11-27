@@ -2,3 +2,4 @@
 .python-version
 Analyze.csv
 uv.lock
+.env
